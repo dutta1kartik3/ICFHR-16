@@ -1,0 +1,10 @@
+all
+call
+ll
+fill
+full
+fell
+shall
+tell
+hell
+hull

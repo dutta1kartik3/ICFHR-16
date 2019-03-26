@@ -1,0 +1,10 @@
+step
+stop
+ship
+steps
+slip
+stamp
+up
+slope
+shape
+top

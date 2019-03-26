@@ -1,0 +1,10 @@
+states
+sorts
+safe
+says
+spots
+some
+she
+status
+supper
+same

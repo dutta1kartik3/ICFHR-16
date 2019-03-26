@@ -1,0 +1,10 @@
+action
+motion
+ration
+nation
+actions
+occasion
+emotion
+mention
+decision
+attention

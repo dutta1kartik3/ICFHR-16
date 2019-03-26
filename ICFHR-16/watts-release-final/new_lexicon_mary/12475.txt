@@ -1,0 +1,10 @@
+act
+fact
+at
+packet
+sect
+out
+back
+sacks
+jack
+accept

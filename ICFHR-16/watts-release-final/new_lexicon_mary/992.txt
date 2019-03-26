@@ -1,0 +1,10 @@
+back
+buck
+black
+block
+blanche
+bank
+jack
+book
+bath
+beach

@@ -1,0 +1,10 @@
+part
+past
+put
+pet
+party
+pad
+pay
+paid
+path
+packet

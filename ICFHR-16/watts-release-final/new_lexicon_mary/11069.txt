@@ -1,0 +1,10 @@
+before
+behave
+become
+believe
+ignore
+afford
+better
+wherefores
+geoffrey
+became

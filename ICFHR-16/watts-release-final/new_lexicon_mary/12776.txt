@@ -1,0 +1,10 @@
+attributes
+altitudes
+attitude
+authority
+attack
+afterwards
+allies
+astronomers
+actions
+anxious

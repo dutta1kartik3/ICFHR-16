@@ -1,0 +1,10 @@
+true
+five
+future
+tree
+drive
+stove
+steve
+three
+time
+try

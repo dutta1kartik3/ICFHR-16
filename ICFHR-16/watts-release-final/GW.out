@@ -1,0 +1,185 @@
+Running on hosts: node18
+Running on 1 nodes.
+Running on  processors.
+Current working directory is /home/cvit/kartik/watts-release
+Warning: No display specified.  You will not be able to display graphics on the screen.
+Warning: No window system found.  Java option 'MWT' ignored.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+Warning: X does not support locale en_IN
+No window system found.  Java option 'MWT' ignored.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+* Loading dataset *
+* Preparing images *
+* Computing PHOC histograms *
+* Extracting FV features *
+
+**************************************
+*************   CV CSR   *************
+**************************************
+
+N =
+
+   347
+
+
+N =
+
+   279
+
+
+N =
+
+   347
+
+
+N =
+
+   279
+
+
+N =
+
+   347
+
+
+N =
+
+   279
+
+------------------------------------
+Best qbe map result on validation: 91.72 map with reg 0.00010000 and K 96
+------------------------------------
+
+**************************************
+*************   CV KCSR   ************
+**************************************
+
+N =
+
+   347
+
+
+N =
+
+   279
+
+------------------------------------
+reg: 0.00001000. k: 128, M: 2500, G: 40
+qbe -- val: (map: 93.36. p@1: 93.37)
+qbs -- val: (map: 89.09. p@1: 87.10)
+------------------------------------
+------------------------------------
+Best qbe map result on validation: 91.23 map with reg 0.00001000, K 128, G 40, and M 2500
+------------------------------------
+
+**************************************
+***************  CSR   ***************
+**************************************
+
+N =
+
+   910
+
+
+N =
+
+   471
+
+------------------------------------
+reg: 0.00010000. k: 96
+qbe --   test: (map: 94.41. p@1: 96.15)
+qbs --   test: (map: 92.84. p@1: 91.08)
+------------------------------------
+
+**************************************
+***************  KCSR   **************
+**************************************
+
+N =
+
+   910
+
+
+N =
+
+   471
+
+------------------------------------
+reg: 0.00001000. k: 128
+qbe --   test: (map: 95.32. p@1: 96.37)
+qbs --   test: (map: 92.16. p@1: 90.23)
+------------------------------------
+
+**************************************
+************  Hybrid CSR  ***********
+**************************************
+
+N =
+
+   910
+
+
+N =
+
+   910
+
+
+N =
+
+   910
+
+
+N =
+
+   910
+
+
+N =
+
+   910
+
+
+N =
+
+   910
+
+
+N =
+
+   910
+
+
+N =
+
+   910
+
+
+N =
+
+   910
+
+
+N =
+
+   910
+
+
+N =
+
+   910
+
+------------------------------------
+alpha: 0.20 reg: 0.00010000. k: 96
+hybrid --   test: (map: 97.26. p@1: 98.68)
+------------------------------------
+>> [Warning: Objects of graph2d.lineseries class exist - not clearing this class or
+any of its superclasses] 
+Program finished with exit code 0 at: Thu Aug 11 17:50:08 IST 2016

@@ -1,0 +1,10 @@
+walking
+falling
+talking
+waiting
+watching
+wanting
+halting
+warning
+calling
+wasting

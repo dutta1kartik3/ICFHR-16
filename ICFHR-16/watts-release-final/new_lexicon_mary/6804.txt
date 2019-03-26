@@ -1,0 +1,10 @@
+all
+call
+ll
+will
+hull
+dull
+hill
+well
+hell
+tell

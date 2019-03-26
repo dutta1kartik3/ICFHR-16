@@ -1,0 +1,10 @@
+station
+situation
+nation
+ration
+static
+tradition
+starting
+squadron
+shallow
+staff

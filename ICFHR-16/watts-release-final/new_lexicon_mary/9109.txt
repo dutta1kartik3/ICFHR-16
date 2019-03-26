@@ -1,0 +1,10 @@
+before
+behave
+become
+ignore
+better
+believe
+ashore
+blue
+wherefores
+became

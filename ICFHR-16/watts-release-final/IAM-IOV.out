@@ -1,0 +1,179 @@
+Running on hosts: node51
+Running on 1 nodes.
+Running on  processors.
+Current working directory is /home/cvit/kartik/watts-release
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+* Loading dataset *
+* Preparing images *
+* Computing PHOC histograms *
+* Extracting FV features *
+
+**************************************
+*************   CV CSR   *************
+**************************************
+
+N =
+
+        2500
+
+
+N =
+
+        2500
+
+
+N =
+
+        2500
+
+
+N =
+
+        2500
+
+
+N =
+
+        2500
+
+
+N =
+
+        2500
+
+------------------------------------
+Best qbe map result on validation: 91.84 map with reg 0.00010000 and K 96
+------------------------------------
+
+**************************************
+***************  CSR   ***************
+**************************************
+
+N =
+
+        4030
+
+
+N =
+
+        2743
+
+------------------------------------
+reg: 0.00010000. k: 96
+qbe --   test: (map: 83.64. p@1: 89.26)
+qbs --   test: (map: 91.47. p@1: 91.47)
+------------------------------------
+
+N =
+
+        3139
+
+
+N =
+
+        1375
+
+------------------------------------
+In Vocabulary
+reg: 0.00010000. k: 96
+qbe --   test: (map: 82.78. p@1: 89.14)
+qbs --   test: (map: 91.25. p@1: 92.58)
+------------------------------------
+
+N =
+
+   891
+
+
+N =
+
+        1368
+
+------------------------------------
+Out of Vocabulary
+reg: 0.00010000. k: 96
+qbe --   test: (map: 86.65. p@1: 89.67)
+qbs --   test: (map: 91.70. p@1: 90.35)
+------------------------------------
+
+**************************************
+************  Hybrid CSR  ***********
+**************************************
+
+N =
+
+        4030
+
+
+N =
+
+        4030
+
+
+N =
+
+        4030
+
+
+N =
+
+        4030
+
+
+N =
+
+        4030
+
+
+N =
+
+        4030
+
+
+N =
+
+        4030
+
+
+N =
+
+        4030
+
+
+N =
+
+        4030
+
+
+N =
+
+        4030
+
+
+N =
+
+        4030
+
+------------------------------------
+alpha: 0.30 reg: 0.00010000. k: 96
+hybrid --   test: (map: 91.23. p@1: 96.10)
+------------------------------------
+
+**************************************
+************  Recognition  ***********
+**************************************
+------------------------------------
+lexicon full   -- p@1: 84.19. cer: 7.06. wer: 15.56
+------------------------------------
+>> [Warning: Objects of graph2d.lineseries class exist - not clearing this class or
+any of its superclasses] 
+Program finished with exit code 0 at: Tue Aug  2 23:32:39 IST 2016

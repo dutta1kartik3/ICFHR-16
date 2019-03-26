@@ -1,0 +1,10 @@
+advice
+doc
+address
+source
+due
+dsc
+accuracy
+deference
+de
+decadence

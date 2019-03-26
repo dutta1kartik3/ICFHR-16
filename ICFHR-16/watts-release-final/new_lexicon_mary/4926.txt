@@ -1,0 +1,10 @@
+rule
+re
+route
+revolve
+rifle
+revolted
+mile
+rolled
+rate
+refilled

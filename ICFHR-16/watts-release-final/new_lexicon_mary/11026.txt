@@ -1,0 +1,10 @@
+doc
+dsc
+dance
+o
+door
+oclock
+vc
+do
+dog
+deck

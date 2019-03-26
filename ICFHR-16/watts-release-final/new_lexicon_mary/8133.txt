@@ -1,0 +1,10 @@
+make
+shake
+image
+moke
+lake
+take
+sake
+smoke
+male
+wake

@@ -1,0 +1,10 @@
+motion
+mention
+emotion
+ration
+nation
+motor
+repetition
+region
+mission
+action

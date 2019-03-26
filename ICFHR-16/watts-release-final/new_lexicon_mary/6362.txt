@@ -1,0 +1,10 @@
+only
+fully
+any
+faulty
+dly
+sally
+daily
+coldly
+idly
+lonely

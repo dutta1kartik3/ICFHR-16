@@ -1,0 +1,10 @@
+clean
+clear
+can
+ocean
+mean
+clad
+charm
+clever
+car
+learn

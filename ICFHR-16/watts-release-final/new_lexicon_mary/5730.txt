@@ -1,0 +1,10 @@
+bridge
+judge
+trifle
+furniture
+knife
+bottle
+lounge
+image
+write
+tribe

@@ -1,0 +1,60 @@
+Running on hosts: node25
+Running on 1 nodes.
+Running on  processors.
+Current working directory is /home/cvit/kartik/watts-release
+Warning: No display specified.  You will not be able to display graphics on the screen.
+Warning: No window system found.  Java option 'MWT' ignored.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+No window system found.  Java option 'MWT' ignored.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+* Loading dataset *
+* Preparing images *
+* Computing PHOC histograms *
+* Extracting FV features *
+
+**************************************
+*************   CV KCSR   ************
+**************************************
+------------------------------------
+reg: 0.00001000. k: 160, M: 2500, G: 40
+qbe -- val: (map: 89.32. p@1: 91.32)
+qbs -- val: (map: 92.47. p@1: 91.16)
+------------------------------------
+------------------------------------
+Best qbe map result on validation: 90.90 map with reg 0.00001000, K 160, G 40, and M 2500
+------------------------------------
+
+**************************************
+***************  KCSR   **************
+**************************************
+------------------------------------
+reg: 0.00001000. k: 160
+qbe --   test: (map: 83.43. p@1: 88.91)
+qbs --   test: (map: 91.09. p@1: 90.96)
+------------------------------------
+
+**************************************
+************  Hybrid KCSR  ***********
+**************************************
+------------------------------------
+alpha: 0.30 reg: 0.00001000. k: 160
+hybrid --   test: (map: 91.24. p@1: 96.05)
+------------------------------------
+
+**************************************
+************  Recognition  ***********
+**************************************
+------------------------------------
+lexicon full   -- p@1: 85.93. cer: 6.27. wer: 13.98
+------------------------------------
+>> [Warning: Objects of graph2d.lineseries class exist - not clearing this class or
+any of its superclasses] 
+Program finished with exit code 0 at: Fri Jul 29 16:57:08 IST 2016

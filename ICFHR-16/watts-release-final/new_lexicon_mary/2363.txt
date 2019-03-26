@@ -1,0 +1,10 @@
+mr
+nor
+mrs
+mo
+major
+miss
+number
+my
+mib
+mos

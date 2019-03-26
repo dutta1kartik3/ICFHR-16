@@ -1,0 +1,10 @@
+oclock
+block
+flock
+deck
+cook
+sick
+mock
+mick
+black
+ok

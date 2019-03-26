@@ -1,0 +1,204 @@
+Running on hosts: node18
+Running on 1 nodes.
+Running on  processors.
+Current working directory is /home/cvit/kartik/watts-release
+Warning: No display specified.  You will not be able to display graphics on the screen.
+Warning: No window system found.  Java option 'MWT' ignored.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+Warning: X does not support locale en_IN
+No window system found.  Java option 'MWT' ignored.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+* Loading dataset *
+* Preparing images *
+* Computing PHOC histograms *
+* Extracting FV features *
+
+**************************************
+*************   CV CSR   *************
+**************************************
+
+N =
+
+        4905
+
+
+N =
+
+        2365
+
+
+N =
+
+        4905
+
+
+N =
+
+        2365
+
+
+N =
+
+        4905
+
+
+N =
+
+        2365
+
+
+N =
+
+        4905
+
+
+N =
+
+        2365
+
+
+N =
+
+        4905
+
+
+N =
+
+        2365
+
+
+N =
+
+        4905
+
+
+N =
+
+        2365
+
+
+N =
+
+        4905
+
+
+N =
+
+        2365
+
+
+N =
+
+        4905
+
+
+N =
+
+        2365
+
+
+N =
+
+        4905
+
+
+N =
+
+        2365
+
+------------------------------------
+Best qbe map result on validation: 81.56 map with reg 0.00010000 and K 200
+------------------------------------
+
+**************************************
+***************  CSR   ***************
+**************************************
+
+N =
+
+   602
+
+
+N =
+
+    73
+
+------------------------------------
+reg: 0.00010000. k: 200
+qbe --   test: (map: 86.41. p@1: 89.70)
+qbs --   test: (map: 86.34. p@1: 87.67)
+------------------------------------
+
+**************************************
+************  Hybrid CSR  ***********
+**************************************
+
+N =
+
+   602
+
+
+N =
+
+   602
+
+
+N =
+
+   602
+
+
+N =
+
+   602
+
+
+N =
+
+   602
+
+
+N =
+
+   602
+
+
+N =
+
+   602
+
+
+N =
+
+   602
+
+
+N =
+
+   602
+
+
+N =
+
+   602
+
+
+N =
+
+   602
+
+------------------------------------
+alpha: 0.30 reg: 0.00010000. k: 200
+hybrid --   test: (map: 89.86. p@1: 95.02)
+------------------------------------
+>> [Warning: Objects of graph2d.lineseries class exist - not clearing this class or
+any of its superclasses] 
+Program finished with exit code 0 at: Fri Aug 12 20:12:24 IST 2016

@@ -1,0 +1,10 @@
+nose
+rope
+safe
+name
+rate
+hope
+rose
+hole
+of
+re

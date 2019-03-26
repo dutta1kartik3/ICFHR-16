@@ -1,0 +1,10 @@
+back
+buck
+block
+black
+jack
+bank
+book
+beach
+luck
+mock

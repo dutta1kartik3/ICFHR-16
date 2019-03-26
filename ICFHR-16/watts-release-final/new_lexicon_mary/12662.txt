@@ -1,0 +1,10 @@
+all
+tell
+call
+ll
+hell
+dull
+pell
+well
+fell
+bell

@@ -1,0 +1,10 @@
+clear
+clean
+clad
+cross
+close
+closer
+clever
+clerks
+ideas
+clips

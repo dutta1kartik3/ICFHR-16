@@ -1,0 +1,10 @@
+all
+call
+ll
+tell
+hill
+gallon
+shall
+hell
+fill
+allow

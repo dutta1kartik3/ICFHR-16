@@ -1,0 +1,10 @@
+before
+behave
+become
+believe
+better
+ignore
+geoffrey
+backface
+became
+afford

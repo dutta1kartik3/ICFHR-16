@@ -1,0 +1,10 @@
+usual
+unusual
+casual
+normal
+marshal
+personal
+naval
+cultural
+hospital
+royal

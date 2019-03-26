@@ -1,0 +1,10 @@
+before
+behave
+become
+believe
+better
+became
+geoffrey
+blue
+gesture
+backface

@@ -1,0 +1,10 @@
+getting
+greeting
+meeting
+letting
+fitting
+feeling
+halting
+putting
+testing
+gets

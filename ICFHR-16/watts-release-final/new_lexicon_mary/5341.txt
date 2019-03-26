@@ -1,0 +1,10 @@
+quite
+gate
+queue
+get
+gets
+squirt
+settle
+sense
+appreciate
+sent

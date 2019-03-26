@@ -1,0 +1,10 @@
+talking
+falling
+walking
+taking
+rumbling
+running
+calling
+halting
+trailing
+rounding

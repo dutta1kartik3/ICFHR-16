@@ -1,0 +1,10 @@
+3
+go
+girl
+gin
+bill
+220
+bib
+50
+grim
+85

@@ -1,0 +1,10 @@
+department
+apartment
+appointment
+impatient
+important
+impertinent
+put
+disappointment
+portent
+treatment

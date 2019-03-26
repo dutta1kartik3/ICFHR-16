@@ -1,0 +1,10 @@
+passed
+paused
+grasped
+gasped
+pressed
+gazed
+tossed
+fussed
+raised
+pushed

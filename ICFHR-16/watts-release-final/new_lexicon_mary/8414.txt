@@ -1,0 +1,10 @@
+account
+about
+accident
+cut
+court
+occupant
+mont
+accept
+dont
+cant
